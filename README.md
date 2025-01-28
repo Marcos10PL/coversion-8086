@@ -1,5 +1,5 @@
 # coversion and pyramid - 8086
 
-Assembly code, two projects:
--- coversion - decimal to binary and hexadecimal conversion (U2)
--- pyramid - displaying a pyramid of letters
+Assembly code, two projects: <br>
+-- coversion - decimal to binary and hexadecimal conversion (U2)<br>
+-- pyramid - displaying a pyramid of letters<br>
